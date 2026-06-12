@@ -79,7 +79,7 @@ The transformed datasets were exported as separate CSV files for downstream anal
 
 ## Repository Structure
 
-├── notebook.ipynb
+├── bank_marketing_etl_pipeline.ipynb
 ├── bank_marketing.csv
 ├── client.csv
 ├── campaign.csv
